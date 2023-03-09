@@ -1,3 +1,3 @@
 # gallery
 1 курсовой
-galleryblan.webtm.ru
+http://galleryblan.webtm.ru/
